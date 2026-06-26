@@ -1,0 +1,52 @@
+.engfont {
+  font-family: "Shadows Into Light", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.thaifont {
+  font-family: "Charm", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.myDiv {
+  border: 2px outset #2c4a6b;
+  text-align: center;
+  width: 460px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+  border: 2px outset #2c4a6b;
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 30px;
+}
+
+body {
+  background-color: #fff8e7;
+}
+h1 {
+  color: #2c3e50;
+}
+h2 {
+  color: #3e5c76;
+}
+h3 {
+  color: #6d4c41;
+}
+p {
+  color: #4a4a4a;
+}
