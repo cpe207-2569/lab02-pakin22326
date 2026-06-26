@@ -25,6 +25,7 @@
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 5px;
 }
 
 .icon {
@@ -33,6 +34,15 @@
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 30px;
+}
+
+.profile {
+  border: 2px outset #8d2606;
+  width: auto;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 180px;
 }
 
 body {
